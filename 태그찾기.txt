@@ -1,0 +1,226 @@
+현대카드 https://www.hyundaicard.com/cpb/gs/CPBGS2005_01.hc
+상호명 검색
+<input type="text" name="textMrchConmNm" id="textMrchConmNm" class="input_txt search_ip" placeholder="상호를 입력하세요 (선택)">
+
+삼성카드 https://www.samsungcard.com/personal/services/merchant/benefits/UHPPBE0524M0.jsp
+가맹점명 검색
+<div class="input_search_area">
+                            <span class="rel ui_inputbox">
+                                    <input type="text" class="in_txt f_wd_zipsch" id="mrcNm" placeholder="가맹점명 입력" title="가맹점명 입력">
+                                    <button type="button" class="input_del"><span class="hide">입력사항 삭제하기</span></button>
+                            </span>
+                            <button type="button" id="mrcSearch"><span class="hide">가맹점 조회</span></button>
+                        </div>
+
+
+
+<div class="box_search h48">
+                    <div class="flex_wAuto">
+                        <div class="hds_box">
+                            <div class="hds_box_in">
+                                <div class="box_select h48 dropdown01" aria-expanded="false">
+                                    <select name="searchSido" id="searchSido" title="시/도 선택">
+                                        <option>시/도 선택</option>
+<!--                                             <option value="경기">경기</option>
+ -->                                       
+                                         
+                                            <option value="서울">서울</option>
+                                        
+                                            <option value="부산">부산</option>
+                                        
+                                            <option value="대구">대구</option>
+                                        
+                                            <option value="인천">인천</option>
+                                        
+                                            <option value="광주">광주</option>
+                                        
+                                            <option value="대전">대전</option>
+                                        
+                                            <option value="울산">울산</option>
+                                        
+                                            <option value="경기" selected="selected">경기</option>
+                                        
+                                            <option value="강원">강원</option>
+                                        
+                                            <option value="충북">충북</option>
+                                        
+                                            <option value="충남">충남</option>
+                                        
+                                            <option value="전북">전북</option>
+                                        
+                                            <option value="전남">전남</option>
+                                        
+                                            <option value="경북">경북</option>
+                                        
+                                            <option value="경남">경남</option>
+                                        
+                                            <option value="제주">제주</option>
+                                        
+                                            <option value="세종">세종</option>
+                                            
+                                    </select><div class="select_wrap searchSido"><p><a href="" class="btn_select  on" role="button" title="시/도 선택">경기</a></p><div class="ul_select_list mCustomScrollbar _mCS_2 mCS-autoHide mCS_no_scrollbar" style="overflow: visible; display: none; height: 0px;"><div id="mCSB_2" class="mCustomScrollBox mCS-minimal-dark mCSB_vertical mCSB_outside" style="max-height: 0px;" tabindex="0"><div id="mCSB_2_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position: relative; top: 0px; left: 0px;" dir="ltr"><ul class="ul_select" herf-text-disable="false"><li class=""><a href="#시/도 선택" title="시/도 선택"><span class="txt_select">시/도 선택</span></a></li><li><a href="#서울" title="서울"><span class="txt_select">서울</span></a></li><li><a href="#부산" title="부산"><span class="txt_select">부산</span></a></li><li><a href="#대구" title="대구"><span class="txt_select">대구</span></a></li><li><a href="#인천" title="인천"><span class="txt_select">인천</span></a></li><li><a href="#광주" title="광주"><span class="txt_select">광주</span></a></li><li><a href="#대전" title="대전"><span class="txt_select">대전</span></a></li><li><a href="#울산" title="울산"><span class="txt_select">울산</span></a></li><li class="on"><a href="#경기" title="경기"><span class="txt_select">경기</span><span class="blind">선택됨</span></a></li><li><a href="#강원" title="강원"><span class="txt_select">강원</span></a></li><li><a href="#충북" title="충북"><span class="txt_select">충북</span></a></li><li><a href="#충남" title="충남"><span class="txt_select">충남</span></a></li><li><a href="#전북" title="전북"><span class="txt_select">전북</span></a></li><li><a href="#전남" title="전남"><span class="txt_select">전남</span></a></li><li><a href="#경북" title="경북"><span class="txt_select">경북</span></a></li><li><a href="#경남" title="경남"><span class="txt_select">경남</span></a></li><li><a href="#제주" title="제주"><span class="txt_select">제주</span></a></li><li><a href="#세종" title="세종"><span class="txt_select">세종</span></a></li></ul></div></div><div id="mCSB_2_scrollbar_vertical" class="mCSB_scrollTools mCSB_2_scrollbar mCS-minimal-dark mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_2_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 50px; top: 0px; display: block; height: 87px; max-height: 252px;" oncontextmenu="return false;"><div class="mCSB_dragger_bar" style="line-height: 50px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="flex_wAuto">
+                        <div class="hds_box">
+                            <div class="hds_box_in">
+                                <div class="box_select h48 dropdown01" aria-expanded="false">
+                                    <select name="searchSigungu" id="ajaxView_Sigungu" title="구/군 선택">
+    <option value="">시/군/구 선택</option>
+    
+        <option value="가평군">가평군</option>
+    
+        <option value="고양시 덕양구">고양시 덕양구</option>
+    
+        <option value="고양시 일산동구">고양시 일산동구</option>
+    
+        <option value="고양시 일산서구">고양시 일산서구</option>
+    
+        <option value="과천시">과천시</option>
+    
+        <option value="광명시">광명시</option>
+    
+        <option value="광주시">광주시</option>
+    
+        <option value="구리시">구리시</option>
+    
+        <option value="군포시">군포시</option>
+    
+        <option value="김포시">김포시</option>
+    
+        <option value="남양주시">남양주시</option>
+    
+        <option value="동두천시">동두천시</option>
+    
+        <option value="부천시">부천시</option>
+    
+        <option value="부천시 소사구">부천시 소사구</option>
+    
+        <option value="부천시 오정구">부천시 오정구</option>
+    
+        <option value="부천시 원미구">부천시 원미구</option>
+    
+        <option value="성남시 분당구">성남시 분당구</option>
+    
+        <option value="성남시 수정구">성남시 수정구</option>
+    
+        <option value="성남시 중원구">성남시 중원구</option>
+    
+        <option value="수원시 권선구">수원시 권선구</option>
+    
+        <option value="수원시 영통구">수원시 영통구</option>
+    
+        <option value="수원시 장안구">수원시 장안구</option>
+    
+        <option value="수원시 팔달구">수원시 팔달구</option>
+    
+        <option value="시흥시">시흥시</option>
+    
+        <option value="안산시 단원구">안산시 단원구</option>
+    
+        <option value="안산시 상록구">안산시 상록구</option>
+    
+        <option value="안성시">안성시</option>
+    
+        <option value="안양시 동안구">안양시 동안구</option>
+    
+        <option value="안양시 만안구">안양시 만안구</option>
+    
+        <option value="양주시">양주시</option>
+    
+        <option value="양평군">양평군</option>
+    
+        <option value="여주시">여주시</option>
+    
+        <option value="연천군">연천군</option>
+    
+        <option value="오산시">오산시</option>
+    
+        <option value="용인시 기흥구">용인시 기흥구</option>
+    
+        <option value="용인시 수지구" selected="selected">용인시 수지구</option>
+    
+        <option value="용인시 처인구">용인시 처인구</option>
+    
+        <option value="의왕시">의왕시</option>
+    
+        <option value="의정부시">의정부시</option>
+    
+        <option value="이천시">이천시</option>
+    
+        <option value="파주시">파주시</option>
+    
+        <option value="평택시">평택시</option>
+    
+        <option value="포천시">포천시</option>
+    
+        <option value="하남시">하남시</option>
+    
+        <option value="화성시">화성시</option>
+    
+</select><div class="select_wrap ajaxView_Sigungu"><p><a href="" class="btn_select on" title="구/군 선택 선택 값">용인시 수지구</a></p><div class="ul_select_list mCustomScrollbar _mCS_3 mCS-autoHide mCS_no_scrollbar" style="overflow: visible; display: none; height: 0px;"><div id="mCSB_3" class="mCustomScrollBox mCS-minimal-dark mCSB_vertical mCSB_outside" style="max-height: 0px;" tabindex="0"><div id="mCSB_3_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position: relative; top: 0px; left: 0px;" dir="ltr"><ul class="ul_select" herf-text-disable="false"><li><a href="#"><span class="txt_select">시/군/구 선택</span></a></li><li><a href="#가평군"><span class="txt_select">가평군</span></a></li><li><a href="#고양시 덕양구"><span class="txt_select">고양시 덕양구</span></a></li><li><a href="#고양시 일산동구"><span class="txt_select">고양시 일산동구</span></a></li><li><a href="#고양시 일산서구"><span class="txt_select">고양시 일산서구</span></a></li><li><a href="#과천시"><span class="txt_select">과천시</span></a></li><li><a href="#광명시"><span class="txt_select">광명시</span></a></li><li><a href="#광주시"><span class="txt_select">광주시</span></a></li><li><a href="#구리시"><span class="txt_select">구리시</span></a></li><li><a href="#군포시"><span class="txt_select">군포시</span></a></li><li><a href="#김포시"><span class="txt_select">김포시</span></a></li><li><a href="#남양주시"><span class="txt_select">남양주시</span></a></li><li><a href="#동두천시"><span class="txt_select">동두천시</span></a></li><li><a href="#부천시"><span class="txt_select">부천시</span></a></li><li><a href="#부천시 소사구"><span class="txt_select">부천시 소사구</span></a></li><li><a href="#부천시 오정구"><span class="txt_select">부천시 오정구</span></a></li><li><a href="#부천시 원미구"><span class="txt_select">부천시 원미구</span></a></li><li><a href="#성남시 분당구"><span class="txt_select">성남시 분당구</span></a></li><li><a href="#성남시 수정구"><span class="txt_select">성남시 수정구</span></a></li><li><a href="#성남시 중원구"><span class="txt_select">성남시 중원구</span></a></li><li><a href="#수원시 권선구"><span class="txt_select">수원시 권선구</span></a></li><li><a href="#수원시 영통구"><span class="txt_select">수원시 영통구</span></a></li><li><a href="#수원시 장안구"><span class="txt_select">수원시 장안구</span></a></li><li><a href="#수원시 팔달구"><span class="txt_select">수원시 팔달구</span></a></li><li><a href="#시흥시"><span class="txt_select">시흥시</span></a></li><li><a href="#안산시 단원구"><span class="txt_select">안산시 단원구</span></a></li><li><a href="#안산시 상록구"><span class="txt_select">안산시 상록구</span></a></li><li><a href="#안성시"><span class="txt_select">안성시</span></a></li><li><a href="#안양시 동안구"><span class="txt_select">안양시 동안구</span></a></li><li><a href="#안양시 만안구"><span class="txt_select">안양시 만안구</span></a></li><li><a href="#양주시"><span class="txt_select">양주시</span></a></li><li><a href="#양평군"><span class="txt_select">양평군</span></a></li><li><a href="#여주시"><span class="txt_select">여주시</span></a></li><li><a href="#연천군"><span class="txt_select">연천군</span></a></li><li><a href="#오산시"><span class="txt_select">오산시</span></a></li><li><a href="#용인시 기흥구"><span class="txt_select">용인시 기흥구</span></a></li><li class="on"><a href="#용인시 수지구"><span class="txt_select">용인시 수지구</span><span class="blind">선택됨</span></a></li><li><a href="#용인시 처인구"><span class="txt_select">용인시 처인구</span></a></li><li><a href="#의왕시"><span class="txt_select">의왕시</span></a></li><li><a href="#의정부시"><span class="txt_select">의정부시</span></a></li><li><a href="#이천시"><span class="txt_select">이천시</span></a></li><li><a href="#파주시"><span class="txt_select">파주시</span></a></li><li><a href="#평택시"><span class="txt_select">평택시</span></a></li><li><a href="#포천시"><span class="txt_select">포천시</span></a></li><li><a href="#하남시"><span class="txt_select">하남시</span></a></li><li><a href="#화성시"><span class="txt_select">화성시</span></a></li></ul></div></div><div id="mCSB_3_scrollbar_vertical" class="mCSB_scrollTools mCSB_3_scrollbar mCS-minimal-dark mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_3_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 50px; top: 0px; display: block; height: 34px; max-height: 252px;" oncontextmenu="return false;"><div class="mCSB_dragger_bar" style="line-height: 50px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                   <div class="flex_wAuto">
+                        <div class="hds_box">
+                            <div class="hds_box_in">
+                                <div class="box_select h48 dropdown01" aria-expanded="false">
+                                    <select name="searchDong" id="ajaxView_Dong" title="읍/면/동 선택">
+    <option value="">읍/면/동 선택</option>
+    
+        <option value="고기동">고기동</option>
+    
+        <option value="동천동">동천동</option>
+    
+        <option value="상현1동">상현1동</option>
+    
+        <option value="상현2동">상현2동</option>
+    
+        <option value="상현3동">상현3동</option>
+    
+        <option value="상현동">상현동</option>
+    
+        <option value="성복동">성복동</option>
+    
+        <option value="신봉동">신봉동</option>
+    
+        <option value="죽전1동">죽전1동</option>
+    
+        <option value="죽전2동">죽전2동</option>
+    
+        <option value="죽전3동">죽전3동</option>
+    
+        <option value="죽전동">죽전동</option>
+    
+        <option value="풍덕천1동">풍덕천1동</option>
+    
+        <option value="풍덕천2동">풍덕천2동</option>
+    
+        <option value="풍덕천동">풍덕천동</option>
+    
+</select><div class="select_wrap ajaxView_Dong"><p><a href="#wrap" class="btn_select" title="읍/면/동 선택 선택 값">읍/면/동 선택</a></p><div class="ul_select_list mCustomScrollbar _mCS_4 mCS-autoHide mCS_no_scrollbar" style="overflow: visible; display: none; height: 0px;"><div id="mCSB_4" class="mCustomScrollBox mCS-minimal-dark mCSB_vertical mCSB_outside" style="max-height: 0px;" tabindex="0"><div id="mCSB_4_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr"><ul class="ul_select" herf-text-disable="false"><li><a href="#"><span class="txt_select">읍/면/동 선택</span></a></li><li><a href="#고기동"><span class="txt_select">고기동</span></a></li><li><a href="#동천동"><span class="txt_select">동천동</span></a></li><li><a href="#상현1동"><span class="txt_select">상현1동</span></a></li><li><a href="#상현2동"><span class="txt_select">상현2동</span></a></li><li><a href="#상현3동"><span class="txt_select">상현3동</span></a></li><li><a href="#상현동"><span class="txt_select">상현동</span></a></li><li><a href="#성복동"><span class="txt_select">성복동</span></a></li><li><a href="#신봉동"><span class="txt_select">신봉동</span></a></li><li><a href="#죽전1동"><span class="txt_select">죽전1동</span></a></li><li><a href="#죽전2동"><span class="txt_select">죽전2동</span></a></li><li><a href="#죽전3동"><span class="txt_select">죽전3동</span></a></li><li><a href="#죽전동"><span class="txt_select">죽전동</span></a></li><li><a href="#풍덕천1동"><span class="txt_select">풍덕천1동</span></a></li><li><a href="#풍덕천2동"><span class="txt_select">풍덕천2동</span></a></li><li><a href="#풍덕천동"><span class="txt_select">풍덕천동</span></a></li></ul></div></div><div id="mCSB_4_scrollbar_vertical" class="mCSB_scrollTools mCSB_4_scrollbar mCS-minimal-dark mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_4_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 50px; top: 0px; display: block; height: 0px; max-height: 48px;" oncontextmenu="return false;"><div class="mCSB_dragger_bar" style="line-height: 50px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>  
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="flex_wAuto">
+                        <div class="box_input01">
+                            <div class="input_cell_box on completed">
+                                <div class="input_cell w100p">
+                                    <input type="text" name="textMrchConmNm" id="textMrchConmNm" class="input_txt search_ip" placeholder="상호를 입력하세요 (선택)">
+                                </div>
+                                <div class="box_btn alC">
+                                    <a href="javascript:;" class="btn_del" role="button" style="display: none;"><span class="blind">상호 삭제하기</span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w75 ml8">
+                        <button type="button" id="storeSearch" class="btn48_softbg_boldtxt w100p"><span>검색하기</span></button>
+                    </div>
+                </div>
+
