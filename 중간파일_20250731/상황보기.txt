@@ -1,0 +1,5 @@
+streamlit run main_현대카드_단일검색.py
+
+streamlit run 현대카드_가맹점_조회기.py
+
+Get-Content 미처리_상호명_목록_진행중.csv | Select-String ",O$|,X$" | Measure-Object | Select-Object Count
